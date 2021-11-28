@@ -32,9 +32,21 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="circle.cpp" />
+		<Unit filename="circle.h" />
 		<Unit filename="colorize.cpp" />
 		<Unit filename="colorize.h" />
+		<Unit filename="geoshape.cpp" />
+		<Unit filename="geoshape.h" />
 		<Unit filename="main.cpp" />
+		<Unit filename="rect.cpp" />
+		<Unit filename="rect.h" />
+		<Unit filename="shape.cpp" />
+		<Unit filename="shape.h" />
+		<Unit filename="square.cpp" />
+		<Unit filename="square.h" />
+		<Unit filename="triangle.cpp" />
+		<Unit filename="triangle.h" />
 		<Extensions>
 			<code_completion />
 			<envvars />
