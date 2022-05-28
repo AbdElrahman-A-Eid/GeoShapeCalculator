@@ -13,6 +13,11 @@
 
 using namespace std;
 
+/*
+ Author: AbdElrahman Eid
+ Github: AbdElrahman-A-Eid
+*/
+
 #define Start 0
 
 int up(int currRow, int first, int last);
@@ -684,7 +689,7 @@ void Exit(int& flag, GeoShape** GeoArr, int GeoCount)
     cout << "\tMy Regards" << endl;
 
     setColor("DI");
-    cout << "\t- Piain" << endl;
+    cout << "\t- AbdElrahman Eid" << endl;
     setColor("S");
 }
 
